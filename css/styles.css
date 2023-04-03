@@ -909,6 +909,7 @@ body {
   border-radius: 4px;
   border: none;
   padding: 8px 24px;
+  cursor: pointer;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
